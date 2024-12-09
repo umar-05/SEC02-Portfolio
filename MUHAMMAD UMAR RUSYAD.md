@@ -1,2 +1,2 @@
-[My profile](github.com/umar-05)
+[My GitHub Profile](https://github.com/umar-05)
 

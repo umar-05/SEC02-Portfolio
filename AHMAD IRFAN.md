@@ -1,2 +1,2 @@
-[My Profile](github.com/IrfanAzahan)
+[My Profile](https://github.com/IrfanAzahan)
 

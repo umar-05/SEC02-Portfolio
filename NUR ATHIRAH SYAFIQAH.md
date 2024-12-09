@@ -1,2 +1,2 @@
-<h1>[Github Profile](https://github.com/athirahsyaf)</h1>
-<h2>[E-Portfolio](https://athirahsyaf.github.io/)</h2>
+<h3>[Github Profile](https://github.com/athirahsyaf)</h3>
+<h3>[E-Portfolio](https://athirahsyaf.github.io/)</h3>

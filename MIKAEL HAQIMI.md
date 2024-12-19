@@ -1,4 +1,4 @@
-# Hello! 🤝 I am Mikael Haqimi 🤗
+# Hello! 🤝🤗
 ### Feel free to visit my page:
 
 * [Github Profile](https://github.com/mikaelhaqimi)                 _(last update: 9/12/2024)_

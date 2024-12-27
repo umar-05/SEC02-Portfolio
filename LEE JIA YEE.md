@@ -1,3 +1,3 @@
-[Github profile](https://github.com/JiaYee201)
+[My Github profile](https://github.com/JiaYee201)
 
-[E-portfolio](https://jiayee201.github.io/)
+[My E-portfolio](https://jiayee201.github.io/)

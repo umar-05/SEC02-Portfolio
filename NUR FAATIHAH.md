@@ -1,3 +1,3 @@
-[My Personal Profile](https://github.com/nurfaatihahfuad)
+[Nur Faatihah's Profile](https://github.com/nurfaatihahfuad) 
 
-[My Portfolio Profile](https://nurfaatihahfuad.github.io/)
+[Nur Faatihah's Portfolio Profile](https://nurfaatihahfuad.github.io/)

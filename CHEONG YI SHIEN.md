@@ -1,3 +1,3 @@
-[Github profile](github.com/cheongyishien)
+Visit my Github profile --> [Github profile](github.com/cheongyishien)
 
-[E-portfolio](https://cheongyishien.github.io/e-portfolio/)
+Visit my e-portfolio --> [E-portfolio](https://cheongyishien.github.io/)

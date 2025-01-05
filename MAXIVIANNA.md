@@ -4,4 +4,4 @@
 
 *E-Portfolio: [Click Here](https://mxyvn.github.io/)*
 
-*Linkeldn Profile: [Clik Here](https://www.linkedin.com/in/MaxiviannaRobert/)*
+*Linkeldn Profile: [Click Here](https://www.linkedin.com/in/MaxiviannaRobert/)*

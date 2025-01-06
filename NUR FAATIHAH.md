@@ -1,4 +1,6 @@
-#NUR FAATIHAH'S PROFILE 
+# NUR FAATIHAH'S PROFILE
+
+Welcome to my profile page!
 
 [Nur Faatihah's Profile](https://github.com/nurfaatihahfuad) 
 

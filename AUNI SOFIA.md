@@ -1,4 +1,5 @@
-https://github.com/Aunisofia
+Github Profile: https://github.com/Aunisofia
 
-https://aunisofia.github.io/AunisofiaPortfolio/
+E-portfolio: https://aunisofia.github.io/AunisofiaPortfolio/
 
+LinkedIn: www.linkedin.com/in/aunisofia05

@@ -1,1 +1,5 @@
-[Profile](https://zinieportfolio05.netlify.app/)
+# Welcome to my e-portfolio
+You can click here to view my portfolio: 
+<a href="https://gweeziniportfolio.netlify.app" target="_blank" style="text-decoration: none;">
+    <button style="cursor: pointer;">View My Portfolio</button>
+</a>.

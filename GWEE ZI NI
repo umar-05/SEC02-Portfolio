@@ -1,5 +1,3 @@
 # Welcome to my e-portfolio
-You can click here to view my portfolio: 
-<a href="https://gweeziniportfolio.netlify.app" target="_blank" style="text-decoration: none;">
-    <button style="cursor: pointer;">View My Portfolio</button>
-</a>.
+
+You can click here to view my portfolio: [View My Portfolio](https://gweeziniportfolio.netlify.app).

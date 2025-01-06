@@ -2,4 +2,4 @@
 [Click here](https://github.com/gweezini)
 
 ### E-Portfolio:
-[Click here](https://tisgweezinieportfolio.netlify.app/)
+[Click here](https://tiszinieporfolio.netlify.app/)

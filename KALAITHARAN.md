@@ -2,6 +2,5 @@
   _**[Dive into my GitHub](https://github.com/kalai7-web)**_ <br>
 
 # 🌐 E-Portfolio
- _**Step inside my [e-Portfolio](http://127.0.0.1:5500/index.html)**_ <br>
-  _Explore my journey and projects!_
-
+  ### "Explore my journey and projects in my e-portfolio—your window into my world of creativity and growth."
+  [Kalai's E-Portfolio](https://kalai7-web.github.io/kalai.github.io/)
